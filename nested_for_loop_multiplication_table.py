@@ -1,4 +1,4 @@
- nested_for_loop_multiplication_table.py
+# Filename: nested_for_loop_multiplication_table.py
 
 # Outer loop for rows (1 to 5)
 for i in range(1, 6):  
